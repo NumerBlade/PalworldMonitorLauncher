@@ -1,3 +1,4 @@
+<img width="1080" height="1080" alt="PalworldMonitorLauncher_" src="https://github.com/user-attachments/assets/2d9daab1-ce9b-4b68-929c-a4f33f994c57" />
 
 # Palworld Monitor Launcher
 
