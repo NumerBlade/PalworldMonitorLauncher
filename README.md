@@ -1,5 +1,9 @@
 <img width="1080" height="1080" alt="PalworldMonitorLauncher_" src="https://github.com/user-attachments/assets/2d9daab1-ce9b-4b68-929c-a4f33f994c57" />
 
+```
+Currently works as of Palworld v1.0.3, no updates necessary just yet.
+```
+
 # Palworld Monitor Launcher
 
 Make [Palworld](https://store.steampowered.com/app/1623730/) treat a monitor you pick as the primary one, with resolution and placement respected, all that **without** changing Windows' real primary display.
